@@ -164,7 +164,7 @@ velocity distribution in a network in case of static boundary conditions. Exampl
 media. Because every other calculation includes the calculation of network hydraulics, this section is a good
 place to begin:
 
-   -  Minimal example hydraulic calculation ([static](https://github.com/e2nIEE/pandapipes/blob/master/tutorials/minimal_example.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/minimal_example.ipynb))
+   -  Minimal example hydraulic calculation ([static](https://github.com/kbensafta/pandapipes/blob/create_net_from_plural_fcts_and_csv/tutorials/0_1_minimal_example.ipynb)) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/minimal_example.ipynb))
    -  Creating a simple gas or water network ([static](https://github.com/e2nIEE/pandapipes/blob/master/tutorials/creating_a_simple_network.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/creating_a_simple_network.ipynb))
    -  Working with height differences ([static](https://github.com/e2nIEE/pandapipes/blob/develop/tutorials/height_difference_example.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/height_difference_example.ipynb))
    
